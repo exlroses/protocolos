@@ -7,4 +7,8 @@ server responde:
 ****** makroz
 
 
+﻿protocolo 2 prueba loginA 
+server recibe:
+{action: 'login', data: array (usuario, pass), msg: strig }
+
 
